@@ -1,82 +1,66 @@
-<h1 align="center">Hi 👋, I'm Anjali Ninawe</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</h3>
+<h1 align="center">Hi 👋, I'm Anjali Ninawe</h1> <h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD Automation</h3> <p align="center"> Passionate about building scalable cloud infrastructure and automating production deployments. </p>
+🚀 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalininawe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+💼 DevOps Engineer with hands-on experience in AWS cloud environments
 
----
+⚙️ Designed and maintained CI/CD pipelines for 35+ microservices
 
-## 🌟 About Me
+☁️ Experience with EKS, Docker, Terraform & Infrastructure Automation
 
-🔹 DevOps Engineer with hands-on experience in AWS & Kubernetes environments  
-🔹 Passionate about Automation, Cloud Infrastructure & CI/CD  
-🔹 Focused on building scalable & reliable production systems  
-🔹 Strong in Linux troubleshooting & Infrastructure as Code  
+📊 Implemented monitoring using Prometheus, Grafana & CloudWatch
 
----
+🐧 Strong Linux troubleshooting and scripting skills
 
-## 🛠️ Tech Stack
+🔄 Focused on automation, reliability & zero-downtime deployments
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+🛠️ Tech Stack
+☁️ Cloud
 
-### ⚙️ DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+AWS (EC2, S3, IAM, VPC, RDS, DynamoDB, EKS, Lambda, CloudWatch, Route53, WAF)
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+⚙️ DevOps & CI/CD
 
-### 🏗 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+Jenkins, GitHub Actions, GitLab CI/CD, AWS CodePipeline
 
-### 📊 Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+🐳 Containers & Orchestration
 
-### 🐧 OS & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Docker, Kubernetes (EKS), Helm
 
----
+🏗 Infrastructure as Code
 
-## 📌 Featured Projects
+Terraform, Ansible, AWS CloudFormation (Basic)
 
-🚀 **Terraform AWS Infrastructure**  
-Automated provisioning of VPC, EC2, RDS & EKS using reusable modules.
+📊 Monitoring & Logging
 
-🚀 **EKS Deployment with CI/CD**  
-Implemented Jenkins pipeline for containerized microservices deployment.
+CloudWatch, Prometheus, Grafana, ELK Stack
 
-🚀 **Dockerized Application Setup**  
-Built & deployed multi-container apps with Kubernetes manifests.
+🐧 OS & Scripting
 
-🚀 **Monitoring Stack Implementation**  
-Configured Prometheus & Grafana dashboards for real-time monitoring.
+Linux (Ubuntu, Amazon Linux), Bash, Shell Scripting, Python (Basic)
 
----
+📌 Featured Projects
+🔹 Terraform AWS Infrastructure
 
-## 📈 GitHub Stats
+Provisioned VPC, EC2, RDS, and EKS using reusable Terraform modules with remote backend (S3 + DynamoDB locking).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalininawe&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+🔹 EKS Deployment with CI/CD
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalininawe&layout=compact&theme=tokyonight" />
-</p>
+Built Jenkins pipelines for containerized microservices with Blue-Green & Rolling deployment strategies.
 
----
+🔹 Dockerized Application
 
-## 🤝 Connect With Me
+Created and deployed multi-container applications using Kubernetes manifests and Helm charts.
 
-📧 anjalininave7@gmail.com  
-💼 https://www.linkedin.com/in/anjali-ninawe-a77436285/  
+🔹 Monitoring Stack Implementation
 
----
+Configured Prometheus & Grafana dashboards with real-time alerting for production workloads.
 
-⭐ “Automation is not a tool, it’s a mindset.”
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjalininawe&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalininawe&layout=compact&theme=tokyonight" /> </p>
+📫 Connect With Me
+
+📧 anjalininave7@gmail.com
+
+💼 https://www.linkedin.com/in/anjali-ninawe-a77436285/
+
+✨ “Automate everything. Improve continuously.”

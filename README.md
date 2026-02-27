@@ -1,5 +1,12 @@
 # Hi, I'm Anjali Ninawe 👋
-## DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+<div align="center">
+  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+Engineer+%26+Cloud+Engineering;9%2B+months+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ---
 
